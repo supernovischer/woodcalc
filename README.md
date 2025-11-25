@@ -4,9 +4,9 @@ A Python application that uses Computer Vision to count wooden piles in images a
 
 ## ✨ Features
 
-*   **Automated Counting**: Detects wooden piles in images using the Hough Circle Transform.
-*   **Mass Estimation**: Calculates estimated mass based on pile count, dimensions, and wood density.
-*   **Tunable Detection**: Advanced settings to adjust detection sensitivity, radius, and blur for different image conditions.
+*   **Automated Counting**: Detects wooden piles (round) and boards/beams (rectangular) in images.
+*   **Mass Estimation**: Calculates estimated mass based on count, dimensions, and wood density.
+*   **Tunable Detection**: Advanced settings to adjust detection sensitivity, radius, and area for different image conditions.
 *   **Wood Presets**: Built-in density values for common wood types (Robinie, Kastanie, Spruce, etc.).
 *   **User-Friendly UI**: Simple web interface to upload images and view results instantly.
 
